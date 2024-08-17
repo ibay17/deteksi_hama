@@ -1,0 +1,1 @@
+{0: 'Data Sawi Ada Hama', 1: 'Data Sawi Tanpa Hama'}
